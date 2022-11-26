@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '🎥啵贝琴的小站',
-  tagline: '这是一个记录学习经历的网站，防止遗忘，也请随意翻看。',
+  tagline: '这是一个记录学习经历的网站，防止遗忘，也请随意翻看。这是第一次修改',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
