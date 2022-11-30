@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '🎥啵贝琴的小站',
-  tagline: '这是一个记录学习经历的网站，防止遗忘，也请随意翻看。这是第一次修改',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: '这是一个记录学习经历的网站，防止遗忘，也请随意翻看。这是第二次修改了（更改了上下任务栏）',
+  url: 'https://littlefairy.top',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,15 +16,15 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'DxIMT', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'zh-CN',
+    locales: ['zh-CN'],
   },
 
   presets: [
@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/DxIMT/blog/tree/master',
         },
         blog: {
           showReadingTime: true,
@@ -57,65 +57,85 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: '🎥啵贝琴',
         logo: {
-          alt: 'My Site Logo',
+          alt: '🎥啵贝琴',
           src: 'img/logo.svg',
         },
-        items: [
+        items: [//顶部菜单栏
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
+            label: '首页',
+            position: 'right',
+            items: [
+              {
+                label: '随笔',
+                to: "/",
+              }
+            ]
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            to: '/blog',
+            label: '博客', 
+            position: 'right'
+          },
+          {
+            to: 'https://gitee.com/xin-is-a-little-fairy/dashboard/projects',
+            label: 'Gitee',
             position: 'right',
           },
         ],
       },
-      footer: {
+      footer: {//页面底部菜单栏
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '学习',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: '菜鸟教程',
+                href: "https://www.runoob.com/",
+              },
+              {
+                label: "B站",
+                href: "https://www.bilibili.com/",
+              },
+              {
+                label: "STM中文官网",
+                href: "https://shequ.stmicroelectronics.cn/",
               },
             ],
           },
           {
-            title: 'Community',
+            title: '社交媒体',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'B站',
+                href: 'https://space.bilibili.com/481621384?spm_id_from=333.1007.0.0',
               },
-              {
+              /*{
                 label: 'Discord',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/docusaurus',
-              },
+              },*/
             ],
           },
           {
-            title: 'More',
+            title: '友情链接',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: '愧怍',
+                to: 'https://kuizuo.cn/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: '尚宇的小站',
+                to: 'https://www.disnox.top/',
+              },
+              {
+                label: 'Docusaurus',
+                to: 'https://www.docusaurus.cn/',
               },
             ],
           },
