@@ -4,16 +4,16 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    
+    title: 'Update',
+    Svg: require('@site/static/img/wallhaven-3zrep3.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        ohhhhhhhhh
       </>
     ),
   },
-  {
+  /*{
     title: 'Focus on What Matters',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
@@ -32,7 +32,7 @@ const FeatureList = [
         be extended while reusing the same header and footer.
       </>
     ),
-  },
+  },*/
 ];
 
 function Feature({Svg, title, description}) {

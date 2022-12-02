@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            鑷垜浠嬬粛
+            Docusaurus Tutorial - 5min 7515
           </Link>
         </div>
       </div>
@@ -30,7 +30,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`娆㈣繋鏉ュ埌`}
+      title={`ťśÓ­Ŕ´ľ˝`}
       >
       <HomepageHeader />
       <main>

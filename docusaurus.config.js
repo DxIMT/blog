@@ -7,24 +7,24 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '🎥啵贝琴的小站',
-  tagline: '这是一个记录学习经历的网站，防止遗忘，也请随意翻看。这是第二次修改了（更改了上下任务栏）',
+  tagline: '这是属于啵贝琴的专属网页；记录自己学习的历程以及感悟',
   url: 'https://littlefairy.top',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.jpg',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'DxIMT', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'blog', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-CN',
-    locales: ['zh-CN'],
+    defaultLocale: 'zh-Hans',
+    locales: ['zh-Hans'],
   },
 
   presets: [
@@ -32,19 +32,17 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
+        /*docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/DxIMT/blog/tree/master',
-        },
+        },*/
         blog: {
-          showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -60,7 +58,7 @@ const config = {
         title: '🎥啵贝琴',
         logo: {
           alt: '🎥啵贝琴',
-          src: 'img/logo.svg',
+          src: 'img/src.webp',
         },
         items: [//顶部菜单栏
           {
@@ -134,8 +132,7 @@ const config = {
                 to: 'https://www.disnox.top/',
               },
               {
-                label: 'Docusaurus',
-                to: 'https://www.docusaurus.cn/',
+                html: `<a href="https://www.docusaurus.cn/" target="_blank"><img style="height:50px;margin-top:0.5rem" src="/img/buildwith.png" /><a/>`
               },
             ],
           },
