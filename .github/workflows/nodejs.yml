@@ -28,13 +28,23 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: npm run build --if-present
-    - name: FTP Deploy
-      uses: SamKirkland/FTP-Deploy-Actiona3.0.0
-      with:
-        ftp-server: 你的虚拟主机 FTP 上传地址/ftp目录
-        ftp-username: ${{ secrets.ftp_user }}
-        ftp-password: ${{secrets.ftp_pwd }}
-        local-dir: build/
+
+    - name: SSH Deploy
+      uses: easingthemes/ssh-deploy@v2.2.11
       env:
-        Ci: true
-      
+          SSH_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
+          ARGS: '-avzr --delete'
+          SOURCE: 'build'
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+          REMOTE_USER: 'root'
+          TARGET: '/www/wwwroot/blog'
+   
+    #- name: FTP Deploy
+    #  uses: SamKirkland/FTP-Deploy-Actiona3.0.0
+    #  with:
+    #    ftp-server: 你的虚拟主机 FTP 上传地址/ftp目录
+    #    ftp-username: ${{ secrets.ftp_user }}
+    #    ftp-password: ${{secrets.ftp_pwd }}
+    #    local-dir: build/
+    #  env:
+    #    Ci: true
