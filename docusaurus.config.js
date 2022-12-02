@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '🎥啵贝琴的小站',
-  tagline: '这是一个记录学习经历的网站，防止遗忘，也请随意翻看。这是第二次修改了（更改了上下任务栏）。.',
+  tagline: '这是一个记录学习经历的网站，防止遗忘，也请随意翻看。这是第二次修改了（更改了上下任务栏）。',
   url: 'https://littlefairy.top',
   baseUrl: '/',
   onBrokenLinks: 'throw',
