@@ -5,46 +5,42 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
+    branches:
+      - main
 
 jobs:
-  build:
-
+  build-and-deploy:
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [14.x, 16.x, 18.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
     steps:
-    - uses: actions/checkout@v3
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'npm'
-    - run: npm ci
-    - run: npm run build --if-present
+      - name: Checkout
+        uses: actions/checkout@v3
 
-    - name: SSH Deploy
-      uses: easingthemes/ssh-deploy@v2.2.11
-      env:
+      - name: Use Node.js 16
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16.x'
+
+      - name: Build Project
+        run: |
+          yarn install
+          yarn run build
+
+      - name: SSH Deploy
+        uses: easingthemes/ssh-deploy@v2.2.11
+        env:
           SSH_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
           ARGS: '-avzr --delete'
           SOURCE: 'build'
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           REMOTE_USER: 'root'
           TARGET: '/www/wwwroot/blog'
-   
-    #- name: FTP Deploy
-    #  uses: SamKirkland/FTP-Deploy-Actiona3.0.0
-    #  with:
-    #    ftp-server: 你的虚拟主机 FTP 上传地址/ftp目录
-    #    ftp-username: ${{ secrets.ftp_user }}
-    #    ftp-password: ${{secrets.ftp_pwd }}
-    #    local-dir: build/
-    #  env:
-    #    Ci: true
+
+      # - name: FTP Deploy
+      #   uses: SamKirkland/FTP-Deploy-Action@4.0.0
+      #   with:
+      #     server: ${{ secrets.ftp_server }}
+      #     username: ${{ secrets.ftp_user }}
+      #     password: ${{ secrets.ftp_pwd }}
+      #     local-dir: ./build/
+      #     server-dir: ./
