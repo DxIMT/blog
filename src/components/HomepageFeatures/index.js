@@ -6,7 +6,7 @@ const FeatureList = [
   {
     
     title: 'Update',
-    Svg: require('@site/static/img/wallhaven-3zrep3.svg').default,
+    Svg: require('@site/static/img/Page1.svg').default,
     description: (
       <>
         ohhhhhhhhh
