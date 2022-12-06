@@ -46,7 +46,7 @@ const svgList = [
     title: 'wechat',
     Svg: require('../../static/img/WeChat.svg').default,
     color: '#2979ff',
-    link: 'https://img-blog.csdnimg.cn/d1fb1a1395124a4fb9beadfdb42d6e84.png',
+    link: 'https://postimg.cc/9rN4nx8X',
   },
 ]
 
