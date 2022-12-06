@@ -1,0 +1,127 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #203a43;
+  --ifm-color-primary-dark: #1d343c;
+  --ifm-color-primary-darker: #1b3139;
+  --ifm-color-primary-darkest: #16292f;
+  --ifm-color-primary-light: #23404a;
+  --ifm-color-primary-lighter: #25434d;
+  --ifm-color-primary-lightest: #2a4b57;
+
+  --ifm-code-font-size: 95%;
+}
+
+p {
+  text-align: justify;
+}
+
+.button {
+  background: white;
+}
+
+img {
+  border-radius: var(--ifm-global-radius);
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgb(72, 77, 91);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+.tabs {
+  direction: ltr;
+}
+
+/* Navbar */
+
+.navbar-sidebar {
+  transform: translateX(100%);
+  right: 0;
+  left: auto;
+}
+
+.navbar-sidebar--show .navbar-sidebar {
+  right: 0;
+  left: auto;
+}
+
+.navbar__link {
+  font-weight: 300;
+}
+
+.dropdown > .navbar__link:after {
+  margin-left: 0;
+  margin-right: 0.3em;
+  border-radius: var(--ifm-global-radius);
+}
+
+/* DocSidebar */
+
+.menu__list {
+  padding-right: 0;
+}
+
+.menu__list .menu__list {
+  margin-left: 0;
+  margin-right: var(--ifm-menu-link-padding-horizontal);
+}
+
+.menu__link {
+  font-weight: 300;
+}
+
+.menu__link--active {
+  font-weight: 500;
+}
+
+.menu--responsive .menu__button {
+  background: var(--ifm-color-secondary);
+  right: auto;
+  left: 1rem;
+  z-index: 1;
+}
+
+/* DocsPagination */
+
+.pagination-nav__item + .pagination-nav__item {
+  margin-left: 0;
+  margin-right: var(--ifm-spacing-horizontal);
+  text-align: left;
+}
+
+/* TOC */
+
+.table-of-contents,
+.table-of-contents ul {
+  padding-left: 0;
+  padding-right: var(--ifm-toc-padding-left);
+}
+
+.table-of-contents__left-border {
+  border-left: none;
+  border-right: 1px solid var(--ifm-toc-border-color);
+}
+
+/* Admonitions */
+
+.admonition-icon {
+  margin-right: 0;
+  margin-left: 0.2rem;
+}
+
+/* Blog */
+
+.avatar__photo + .avatar__intro {
+  margin-left: 0;
+  margin-right: var(--ifm-avatar-intro-margin);
+}
+
