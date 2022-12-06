@@ -6,10 +6,11 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import Head from '@docusaurus/Head'
-import HeroImg from '../../static/img/favicon.jpg'
+import HeroImg from '../../static/img/HomePage.png'
 
 import styles from './index.module.css';
 
+/*原本的HomepageHeader函数文件*/ 
 /*function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -29,6 +30,26 @@ import styles from './index.module.css';
     </header>
   );
 }*/
+const svgList = [
+  {
+    title: 'github',
+    Svg: require('../../static/img/github.svg').default,
+    color: 'black',
+    link: 'https://github.com/DxIMT',
+  },
+  {
+    title: 'bilibili',
+    Svg: require('../../static/img/bilibili.svg').default,
+    link: 'https://space.bilibili.com/481621384?spm_id_from=333.1007.0.0',
+  },
+  {
+    title: 'wechat',
+    Svg: require('../../static/img/WeChat.svg').default,
+    color: '#2979ff',
+    link: 'https://img-blog.csdnimg.cn/d1fb1a1395124a4fb9beadfdb42d6e84.png',
+  },
+]
+
 const Svg = ({ Svg, color, title, link }) => {
   return (
     <a href={link} target='_blank'>
@@ -43,11 +64,30 @@ function HomepageHeader() {
     <div className={styles.myHeroContainer}>
       <div className={styles.leftContainer}>
         <h1 className={styles.leftContainer_h1}>
-        🎥啵贝琴的小站 <br />
+        Hello！ <br />这里是🎥啵贝琴的小站💭
         </h1>
         <p className={styles.leftContainer_p}>
-        这是属于啵贝琴的专属网页；记录自己学习的历程以及感悟
+        ➡ 这是属于啵贝琴的专属网页；记录自己学习的历程以及感悟。
+        <br />
+        <br />
+        ➡ 日常项目的BUG；心得体会；随笔都会记录在此；希望对你也有所帮助
         </p>
+        <div className={styles.buttonContainer}>
+          {/* <button className={styles.button}>
+            <a className={styles.hero_a} href='/'>
+              Click
+            </a>
+          </button>
+          <span className={styles.buttonLeftText}>
+            Get Started. <br /> 开启学习之旅.
+          </span> */}
+          
+          <div className={styles.svgContainer}>
+            {svgList.map((item, index) => {
+              return <Svg {...item} key={item.title} />
+            })}
+          </div>
+        </div>
       </div>
       <div className={styles.rightContainer}>
         <img src={HeroImg} alt='HeroImg'/>

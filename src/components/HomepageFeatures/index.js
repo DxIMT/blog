@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     
-    title: 'Update',
+    //title: 'Update',
     Svg: require('@site/static/img/Page1.svg').default,
     /*description: (
       <>
@@ -14,7 +14,7 @@ const FeatureList = [
     ),*/
   },
   {
-    title: 'Focus on What Matters',
+    //title: 'Focus on What Matters',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     /*description: (
       <>
@@ -24,7 +24,7 @@ const FeatureList = [
     ),*/
   },
   {
-    title: 'Powered by React',
+    //title: 'Powered by React',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     /*description: (
       <>
@@ -39,7 +39,7 @@ function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <Svg className={styles.featureSvg} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>

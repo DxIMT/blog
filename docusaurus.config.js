@@ -32,13 +32,13 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        /*docs: {
+        docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/DxIMT/blog/tree/master',
-        },*/
+        },
         blog: {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -62,24 +62,40 @@ const config = {
         },
         items: [//顶部菜单栏
           {
-            label: '首页',
+            label: '👼博客',
             position: 'right',
             items: [
               {
-                label: '随笔',
+                label: "笔记",
                 to: "/",
-              }
+              },
             ]
           },
           {
-            to: '/blog',
-            label: '博客', 
-            position: 'right'
+            label: '⚙故障集', 
+            position: 'right',
+            items: [
+              {
+                label: "网站搭建的日常",
+                to: "/",
+              },
+              
+            ],
           },
           {
-            to: 'https://gitee.com/xin-is-a-little-fairy/dashboard/projects',
-            label: 'Gitee',
+            label: '🍖生活',
             position: 'right',
+            to: 'https://gitee.com/xin-is-a-little-fairy/dashboard/projects',
+          },
+          {
+            label: '日志✏',
+            position: 'right',
+            to: 'https://gitee.com/xin-is-a-little-fairy/dashboard/projects',
+          },
+          {
+            label: 'Gitee📭',
+            position: 'right',
+            to: 'https://github.com/DxIMT/blog',
           },
         ],
       },
@@ -110,14 +126,6 @@ const config = {
                 label: 'B站',
                 href: 'https://space.bilibili.com/481621384?spm_id_from=333.1007.0.0',
               },
-              /*{
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },*/
             ],
           },
           {
