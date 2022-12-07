@@ -85,12 +85,12 @@ const config = {
           {
             label: '🍖生活',
             position: 'right',
-            to: 'https://gitee.com/xin-is-a-little-fairy/dashboard/projects',
+            to: '/',
           },
           {
-            label: '日志✏',
+            label: '日志📃',
             position: 'right',
-            to: 'https://gitee.com/xin-is-a-little-fairy/dashboard/projects',
+            to: 'docs/log',
           },
           {
             label: 'Gitee📭',

@@ -48,6 +48,12 @@ const svgList = [
     color: '#2979ff',
     link: 'https://postimg.cc/9rN4nx8X',
   },
+  /*{
+    title: 'cloud_music',
+    Svg: require('../../static/img/cloud-music.svg').default,
+    color: '#2979ff',
+    link: 'https://music.163.com/#/user/home?id=557006813',
+  },*/
 ]
 
 const Svg = ({ Svg, color, title, link }) => {
