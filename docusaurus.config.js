@@ -4,6 +4,8 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const announcementBarContent = `🌟<span>更新 <a href='/website'>网址导航</a> 带你发现感兴趣的技术</span>`
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '🎥啵贝琴的小站',
@@ -23,8 +25,13 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    defaultLocale: 'zh',
+    locales: ['en', 'zh'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+      },
+    },
   },
 
   presets: [
@@ -91,6 +98,24 @@ const config = {
             label: '日志📃',
             position: 'right',
             to: 'docs/log',
+          },
+          {
+            label: '娱乐🀄',
+            position: 'right',
+            items: [
+              {
+                label: "小空调💤",
+                to: "https://wxurl.cn/PME",
+              },
+              {
+                label: "小电视📺",
+                to: "https://wxurl.cn/36C",
+              },
+              {
+                label: "小游戏🎮",
+                to: "https://wxurl.cn/U0T",
+              },
+            ],
           },
           {
             label: 'Gitee📭',
