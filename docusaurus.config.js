@@ -84,9 +84,9 @@ const config = {
             to: "/docs",
           },
           {
-            to: "/life",
             label: "🍖生活",
             position: "right",
+            to: "/life",
           },
           {
             label: '娱乐🀄',
