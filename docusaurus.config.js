@@ -43,8 +43,6 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/DxIMT/blog/tree/master',
         },
         blog: {
           // Please change this to your repo.
@@ -74,7 +72,7 @@ const config = {
             items: [
               {
                 label: "笔记",
-                to: "/",
+                to: "/Note",
               },
             ]
           },
