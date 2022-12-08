@@ -61,13 +61,13 @@ const config = {
     ({
       navbar: {
         title: '🎥啵贝琴',
+        hideOnScroll: true,
         logo: {
           alt: '🎥啵贝琴',
           src: 'img/src.webp',
         },
         items: [//顶部菜单栏
-          {
-            label: '👼博客',position: 'right',to: "/blog",},
+          {label: '👼博客',position: 'right',to: "/blog",},
           {
             label: '⚙故障集', 
             position: 'right',
@@ -76,18 +76,17 @@ const config = {
                 label: "网站搭建的日常",
                 to: "/",
               },
-              
             ],
-          },
-          {
-            label: '🍖生活',
-            position: 'right',
-            to: '/',
           },
           {
             label: '笔记📃',
             position: 'right',
             to: "/docs",
+          },
+          {
+            to: "/life",
+            label: "🍖生活",
+            position: "right",
           },
           {
             label: '娱乐🀄',
@@ -168,5 +167,4 @@ const config = {
       },
     }),
 };
-
 module.exports = config;
