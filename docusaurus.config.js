@@ -97,7 +97,7 @@ const config = {
           {
             label: '日志📃',
             position: 'right',
-            to: 'docs/log',
+            to: "/docs/log",
           },
           {
             label: '娱乐🀄',
