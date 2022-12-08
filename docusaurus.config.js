@@ -40,7 +40,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          //sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
@@ -67,15 +67,7 @@ const config = {
         },
         items: [//顶部菜单栏
           {
-            label: '👼博客',
-            position: 'right',
-            items: [
-              {
-                label: "笔记",
-                to: "/Note",
-              },
-            ]
-          },
+            label: '👼博客',position: 'right',to: "/blog",},
           {
             label: '⚙故障集', 
             position: 'right',
@@ -93,9 +85,9 @@ const config = {
             to: '/',
           },
           {
-            label: '日志📃',
+            label: '笔记📃',
             position: 'right',
-            to: "/docs/log",
+            to: "/docs",
           },
           {
             label: '娱乐🀄',
