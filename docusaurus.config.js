@@ -76,7 +76,7 @@ const config = {
           {
             label: '笔记📃',
             position: 'right',
-            to: "/docs",
+            to: "docs/Notes/",
           },
           {
             label: "🍖生活",
