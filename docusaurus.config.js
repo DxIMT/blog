@@ -81,7 +81,7 @@ const config = {
           {
             label: "🍖生活",
             position: "right",
-            to: "/life",
+            to: "/",
           },
           {
             label: '娱乐🀄',
