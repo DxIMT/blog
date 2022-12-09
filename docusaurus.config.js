@@ -78,16 +78,6 @@ const config = {
         items: [//顶部菜单栏
           {label: '👼博客',position: 'right',to: "/blog",},
           {
-            label: '⚙故障集', 
-            position: 'right',
-            items: [
-              {
-                label: "网站搭建的日常",
-                to: "/",
-              },
-            ],
-          },
-          {
             label: '笔记📃',
             position: 'right',
             to: "docs/Notes/",
