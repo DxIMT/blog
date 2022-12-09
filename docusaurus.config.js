@@ -50,7 +50,21 @@ const config = {
       }),
     ],
   ],
-
+  plugins: [//相当于宏定义了自己写的“栏”（Life），让他在我to“/Life”的时候可以被编译
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "Life",
+        path: "Life",
+        routeBasePath: "Life",
+        sidebarPath: require.resolve("./sidebars.js"),
+        editUrl: "https://github.com/DxIMT/blog/tree/master",
+        showLastUpdateAuthor: true,
+        showLastUpdateTime: true,
+        breadcrumbs: false,
+      },
+    ],
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -81,7 +95,7 @@ const config = {
           {
             label: "🍖生活",
             position: "right",
-            to: "/",
+            to: "/Life",
           },
           {
             label: '娱乐🀄',
