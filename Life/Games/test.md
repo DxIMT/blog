@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: 第一篇游戏--关于《和平精英》
 
-author: 啵贝琴 
+Author: 啵贝琴 
 date: 2022.12.10
 ---
 
