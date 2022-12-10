@@ -26,11 +26,12 @@ date: 2022.12.10
 
 当时在那现场的拍照，蛙趣我受不了我的头发，啊哈哈哈哈 让我笑一会🤣🤣🤣🤣🤣
 
-![1](../../../DX-blog/static/life_Page/Games/Games_First/1.jpg)
+![1] (../../../DX-blog/static/life_Page/Games/Games_First/1.jpg)
+![x](../../static/life_Page/Games/Games_First/1.jpg)
 
 现在倒是想不起来当时游戏的细节了，唯一能记得就是那个住的地方，蛙趣真的环境很美丽的，在山里面，但是是新宿舍
 
-![5](../../../DX-blog/static/life_Page/Games/Games_First/5.jpg)
+![5] (../../../DX-blog/static/life_Page/Games/Games_First/5.jpg)
 
 **激烈战斗，比赛中....**
 
@@ -38,19 +39,19 @@ date: 2022.12.10
 **最后我们是冠军🥳！！！**
 
 当最终分数排名出来的时候，我看到**IMT**在第一个的时候，我整个激动了，挖槽，太感动了
-![2](../../../DX-blog/static/life_Page/Games/Games_First/2.jpg)
-![3](../../../DX-blog/static/life_Page/Games/Games_First/3.jpg)
+![2] (../../../DX-blog/static/life_Page/Games/Games_First/2.jpg)
+![3] (../../../DX-blog/static/life_Page/Games/Games_First/3.jpg)
 
 这张合照是因为当时在直播，我上电视了，高中好兄弟给我截图的
 
-![4](../../../DX-blog/static/life_Page/Games/Games_First/4.jpg)
+![4] (../../../DX-blog/static/life_Page/Games/Games_First/4.jpg)
 
 ### 全国决赛
 后来啊，就入选到全国决赛啦，和学校的二队一起，那也是我这辈子第一次坐🛫飞机，邀请到杭州老干爹俱乐部打的。那叫一个气派啊
-![6](../../../DX-blog/static/life_Page/Games/Games_First/6.jpg)
-![7](../../../DX-blog/static/life_Page/Games/Games_First/7.jpg)
-![8](../../../DX-blog/static/life_Page/Games/Games_First/8.jpg)
-![9](../../../DX-blog/static/life_Page/Games/Games_First/9.jpg)
+![6] (../../../DX-blog/static/life_Page/Games/Games_First/6.jpg)
+![7] (../../../DX-blog/static/life_Page/Games/Games_First/7.jpg)
+![8] (../../../DX-blog/static/life_Page/Games/Games_First/8.jpg)
+![9] (../../../DX-blog/static/life_Page/Games/Games_First/9.jpg)
 
 全国决赛我们就打得不是很好了，算是保了校二队拿了冠军了，主要也是我们实测了。不过也算是没有遗憾啦，公费去了杭州一次，记得那天很燥热....
 
@@ -59,11 +60,11 @@ date: 2022.12.10
 
 >这是那个时候发的战服，噗哈哈哈
 
-![10](../../../DX-blog/static/life_Page/Games/Games_First/10.jpg)
+![10] (../../../DX-blog/static/life_Page/Games/Games_First/10.jpg)
 
 >那个时候让在地表去拍照留念下电梯我拍的
 
-![11](../../../DX-blog/static/life_Page/Games/Games_First/11.jpg)
+![11] (../../../DX-blog/static/life_Page/Games/Games_First/11.jpg)
 
 ## 结语
 虽说现在的和平精英已经是每周一套皮肤的出，BUG肯定是有，对于去年比算是好多了，也只是下班偶尔打打了，之前还能凑够四个人一起四黑，现在都基本自己打了，一个人打打单四就差不多够了，（突然伤感🙁）
