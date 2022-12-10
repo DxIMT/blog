@@ -76,7 +76,7 @@ const config = {
           src: 'img/src.webp',
         },
         items: [//顶部菜单栏
-          {label: '👼博客',position: 'right',to: "/blog",},
+          {label: '💠关于我',position: 'right',to: "/blog",},
           {
             label: '笔记📃',
             position: 'right',
@@ -105,11 +105,7 @@ const config = {
               },
             ],
           },
-          {
-            label: 'Gitee📭',
-            position: 'right',
-            to: 'https://github.com/DxIMT/blog',
-          },
+          {label: 'Gitee📭', position: 'right',to: 'https://github.com/DxIMT/blog',},
         ],
       },
       footer: {//页面底部菜单栏
