@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: 小计
+title: 小记录
 ---
 
 # Love

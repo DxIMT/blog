@@ -76,9 +76,9 @@ function HomepageHeader() {
         ➡ 这是属于啵贝琴的专属网页；记录自己学习的历程以及感悟。
         <br />
         <br />
-        ◻️ “困住你的到底是什么”
+        ◻️ “困住你的到底是什么?”
         <br />
-        ◻️ “是已有的认知”
+        ◻️ “是已有的认知。”
         </p>
         <div className={styles.buttonContainer}>
           {/* <button className={styles.button}>
