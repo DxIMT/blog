@@ -1,5 +1,6 @@
 {
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "attachmentFolderPath": "static/img_log"
 }

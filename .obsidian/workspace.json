@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "287376ccf8c763b2",
+        "id": "b75cc785b5a436aa",
         "type": "tabs",
         "children": [
           {
-            "id": "50c5ffbf426f40fa",
+            "id": "89973dca44525f3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "docs/Notes/NetPage/记录第一次使用Obsidian写文章.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bbeaee663f4732d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/home.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,17 +145,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "50c5ffbf426f40fa",
+  "active": "89973dca44525f3c",
   "lastOpenFiles": [
-    "blog/home.md",
-    "Life/Games/test.md",
-    "docs/Notes/Home.md",
+    "static/img_log/1.png",
+    "static/img_log/2.png",
     "docs/Notes/NetPage/关于网站侧边栏.md",
-    "docs/Notes/NetPage/记录第一次使用Obsidian写文章.md",
+    "blog/home.md",
+    "docs/Notes/STM32/工程的建立.md",
     "docs/Notes/NetPage/自定义目录以及引用.md",
     "docs/Notes/NetPage/文件引用出错.md",
-    "static/img/docusaurus.png",
-    "未命名.canvas",
-    "static/img/buildwith.png"
+    "docs/Notes/NetPage/记录第一次使用Obsidian写文章.md",
+    "Life/Games/test.md",
+    "docs/Notes/Home.md"
   ]
 }
