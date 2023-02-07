@@ -13,9 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/NetPage/记录第一次使用Obsidian写文章.md",
+                "file": "docs/Notes/STM32/LEDandKEY.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "d7a7e9e6852dcae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/STM32/工程的建立.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/NetPage/记录第一次使用Obsidian写文章.md",
+                "file": "docs/Notes/STM32/LEDandKEY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Notes/NetPage/记录第一次使用Obsidian写文章.md",
+                "file": "docs/Notes/STM32/LEDandKEY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Notes/NetPage/记录第一次使用Obsidian写文章.md"
+                "file": "docs/Notes/STM32/LEDandKEY.md"
               }
             }
           }
@@ -147,15 +159,15 @@
   },
   "active": "89973dca44525f3c",
   "lastOpenFiles": [
+    "docs/Notes/STM32/工程的建立.md",
+    "docs/Notes/STM32/LEDandKEY.md",
+    "docs/Notes/NetPage/记录第一次使用Obsidian写文章.md",
+    "docs/Notes/NetPage/文件引用出错.md",
+    "docs/Notes/NetPage/自定义目录以及引用.md",
     "static/img_log/1.png",
     "static/img_log/2.png",
     "docs/Notes/NetPage/关于网站侧边栏.md",
     "blog/home.md",
-    "docs/Notes/STM32/工程的建立.md",
-    "docs/Notes/NetPage/自定义目录以及引用.md",
-    "docs/Notes/NetPage/文件引用出错.md",
-    "docs/Notes/NetPage/记录第一次使用Obsidian写文章.md",
-    "Life/Games/test.md",
-    "docs/Notes/Home.md"
+    "Life/Games/test.md"
   ]
 }
