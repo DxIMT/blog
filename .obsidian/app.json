@@ -2,6 +2,6 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
-  "attachmentFolderPath": "static/img_log",
-  "livePreview": true
+  "attachmentFolderPath": "static/STM32",
+  "livePreview": false
 }

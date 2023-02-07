@@ -4,30 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b75cc785b5a436aa",
+        "id": "3671634580a74b70",
         "type": "tabs",
         "children": [
           {
-            "id": "89973dca44525f3c",
+            "id": "01a009e613fbd0d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/STM32/LEDandKEY.md",
+                "file": "docs/Notes/STM32/Timer_note.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "d7a7e9e6852dcae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/STM32/工程的建立.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/STM32/LEDandKEY.md",
+                "file": "docs/Notes/STM32/Timer_note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Notes/STM32/LEDandKEY.md",
+                "file": "docs/Notes/STM32/Timer_note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Notes/STM32/LEDandKEY.md"
+                "file": "docs/Notes/STM32/Timer_note.md"
               }
             }
           }
@@ -157,17 +145,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "89973dca44525f3c",
+  "active": "01a009e613fbd0d9",
   "lastOpenFiles": [
-    "docs/Notes/STM32/工程的建立.md",
     "docs/Notes/STM32/LEDandKEY.md",
-    "docs/Notes/NetPage/记录第一次使用Obsidian写文章.md",
-    "docs/Notes/NetPage/文件引用出错.md",
-    "docs/Notes/NetPage/自定义目录以及引用.md",
-    "static/img_log/1.png",
-    "static/img_log/2.png",
-    "docs/Notes/NetPage/关于网站侧边栏.md",
-    "blog/home.md",
-    "Life/Games/test.md"
+    "docs/Notes/STM32/Timer_note.md",
+    "static/STM32/Timer_note/4.png",
+    "static/STM32/Timer_note/image-20210509111502816.png",
+    "static/STM32/Timer_note/image-20210509105825198.png",
+    "static/STM32/Timer_note/image-20210509095306023.png",
+    "static/STM32/Timer_note/image-20210509093038211.png",
+    "static/STM32/Timer_note/image-20210509092942287.png",
+    "Timer_note/image-20210509092942287.png.md",
+    "docs/Notes/STM32/工程的建立.md"
   ]
 }
