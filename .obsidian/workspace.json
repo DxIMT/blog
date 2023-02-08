@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/碎碎念/我对外婆的碎碎念.md",
+                "file": "templates/日志 - 日记模板.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "664370a8e6fbf50f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/NetPage/Obsidian模板初试.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/碎碎念/我对外婆的碎碎念.md",
+                "file": "docs/Notes/NetPage/Obsidian模板初试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/碎碎念/我对外婆的碎碎念.md",
+                "file": "docs/Notes/NetPage/Obsidian模板初试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/碎碎念/我对外婆的碎碎念.md"
+                "file": "docs/Notes/NetPage/Obsidian模板初试.md"
               }
             }
           }
@@ -145,17 +158,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "01a009e613fbd0d9",
+  "active": "4e2492d8647135e0",
   "lastOpenFiles": [
-    "Life/碎碎念/Home.md",
+    "templates/日志 - 日记模板.md",
+    "templates/日志 - 季度模板.md",
+    "README.md",
     "Life/碎碎念/我对外婆的碎碎念.md",
+    "Life/Games/test.md",
+    "Life/碎碎念/Home.md",
+    "Life/Love/Home.md",
     "Life/Life_Home.md",
     "blog/home.md",
-    "Life/Love/Home.md",
-    "docs/Notes/STM32/Timer_note.md",
-    "docs/Notes/STM32/LEDandKEY.md",
-    "static/STM32/Timer_note/4.png",
-    "static/STM32/Timer_note/image-20210509111502816.png",
-    "static/STM32/Timer_note/image-20210509105825198.png"
+    "docs/Notes/STM32/Timer_note.md"
   ]
 }
