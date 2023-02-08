@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/STM32/Timer_note.md",
+                "file": "Life/碎碎念/我对外婆的碎碎念.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/STM32/Timer_note.md",
+                "file": "Life/碎碎念/我对外婆的碎碎念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Notes/STM32/Timer_note.md",
+                "file": "Life/碎碎念/我对外婆的碎碎念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Notes/STM32/Timer_note.md"
+                "file": "Life/碎碎念/我对外婆的碎碎念.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "01a009e613fbd0d9",
   "lastOpenFiles": [
-    "docs/Notes/STM32/LEDandKEY.md",
+    "Life/碎碎念/Home.md",
+    "Life/碎碎念/我对外婆的碎碎念.md",
+    "Life/Life_Home.md",
+    "blog/home.md",
+    "Life/Love/Home.md",
     "docs/Notes/STM32/Timer_note.md",
+    "docs/Notes/STM32/LEDandKEY.md",
     "static/STM32/Timer_note/4.png",
     "static/STM32/Timer_note/image-20210509111502816.png",
-    "static/STM32/Timer_note/image-20210509105825198.png",
-    "static/STM32/Timer_note/image-20210509095306023.png",
-    "static/STM32/Timer_note/image-20210509093038211.png",
-    "static/STM32/Timer_note/image-20210509092942287.png",
-    "Timer_note/image-20210509092942287.png.md",
-    "docs/Notes/STM32/工程的建立.md"
+    "static/STM32/Timer_note/image-20210509105825198.png"
   ]
 }
