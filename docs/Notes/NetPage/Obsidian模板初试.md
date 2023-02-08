@@ -1,10 +1,11 @@
 ---
 title: 第一次在Obsidian中使用模板功能
 description: Obsidian的模板功能
+sidebar_position: 5
 keywords:
-- 关键字
+- Obsidian模板
 tags: 
-- 标签
+- Obsidian
 authors:
 - 啵贝琴
 date: <% tp.date.now("YYYY-MM-DD") %>

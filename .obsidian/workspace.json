@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 235.5
   },
   "right": {
     "id": "61ae6f30a0b7063b",
@@ -158,17 +158,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4e2492d8647135e0",
+  "active": "664370a8e6fbf50f",
   "lastOpenFiles": [
+    "docs/Notes/NetPage/记录第一次使用Obsidian写文章.md",
+    "docs/Notes/NetPage/自定义目录以及引用.md",
+    "docs/Notes/NetPage/关于网站侧边栏.md",
+    "docs/Notes/NetPage/文件引用出错.md",
+    "docs/Notes/NetPage/Obsidian模板初试.md",
     "templates/日志 - 日记模板.md",
     "templates/日志 - 季度模板.md",
     "README.md",
     "Life/碎碎念/我对外婆的碎碎念.md",
-    "Life/Games/test.md",
-    "Life/碎碎念/Home.md",
-    "Life/Love/Home.md",
-    "Life/Life_Home.md",
-    "blog/home.md",
-    "docs/Notes/STM32/Timer_note.md"
+    "Life/Games/test.md"
   ]
 }
