@@ -1,6 +1,11 @@
 ---
 title: LED and KEY
+description: LED和KEY的配置
+sidebar_position: 2
+tags: 
+- STM32
 ---
+
 # 点亮第一个灯
 
 # 											  ——————**By.Xin_Fairy**

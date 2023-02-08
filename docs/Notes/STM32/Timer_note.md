@@ -1,6 +1,11 @@
 ---
 title: Timer_note
+description: STM32定时器
+sidebar_position: 3
+tags: 
+- STM32
 ---
+
 # STM32F4定时器
 
 # 											  											  											  ——————By,Xin_Fairy
