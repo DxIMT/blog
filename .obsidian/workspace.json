@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/NetPage/Obsidian模板初试.md",
+                "file": "templates/文档 - 完全模板.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/NetPage/Obsidian模板初试.md",
+                "file": "templates/文档 - 完全模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Notes/NetPage/Obsidian模板初试.md",
+                "file": "templates/文档 - 完全模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Notes/NetPage/Obsidian模板初试.md"
+                "file": "templates/文档 - 完全模板.md"
               }
             }
           }
@@ -160,15 +160,15 @@
   },
   "active": "664370a8e6fbf50f",
   "lastOpenFiles": [
+    "templates/日志 - 周记模板.md",
+    "templates/日志 - 日记模板.md",
+    "templates/日志 - 季度模板.md",
+    "templates/博客 - 完全模板.md",
+    "templates/博客 - 快速模板.md",
+    "docs/Notes/NetPage/Obsidian模板初试.md",
     "docs/Notes/NetPage/记录第一次使用Obsidian写文章.md",
     "docs/Notes/NetPage/自定义目录以及引用.md",
     "docs/Notes/NetPage/关于网站侧边栏.md",
-    "docs/Notes/NetPage/文件引用出错.md",
-    "docs/Notes/NetPage/Obsidian模板初试.md",
-    "templates/日志 - 日记模板.md",
-    "templates/日志 - 季度模板.md",
-    "README.md",
-    "Life/碎碎念/我对外婆的碎碎念.md",
-    "Life/Games/test.md"
+    "docs/Notes/NetPage/文件引用出错.md"
   ]
 }
