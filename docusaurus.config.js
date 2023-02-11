@@ -154,7 +154,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 啵贝琴, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
