@@ -9,8 +9,6 @@ tags:
 ---
 # PWM
 
-# 											  											  											  ——————By,Xin_Fairy
-
 ## Tips：
 
 ​				Hz --- s

@@ -17,7 +17,7 @@ title: 技术笔记简介
 
 # 常用网站速查：
 
-- Makrdown语法速查:https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88
-- 很牛的图标库：https://undraw.co/illustrations
-- 立创EDA：https://lceda.cn
-- Hello图床：https://www.helloimg.com/
+- <a href="https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88">Makrdown语法速查</a>
+- <a href="https://undraw.co/illustrations">很牛的图标库</a>
+- <a href="https://lceda.cn">立创EDA</a>
+- <a href="https://www.helloimg.com/">Hello图床</a>

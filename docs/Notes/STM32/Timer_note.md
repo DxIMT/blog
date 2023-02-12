@@ -8,8 +8,6 @@ tags:
 
 # STM32F4定时器
 
-# 											  											  											  ——————By,Xin_Fairy
-
 ## 一、STM32的定时器资源
 
 ■ 系统嘀嗒定时器Sys Tick
