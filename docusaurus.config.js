@@ -4,7 +4,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const announcementBarContent = `🌟<span>更新 <a href='/website'>网址导航</a> 带你发现感兴趣的技术</span>`
+const announcementBarContent = `<a href="https://firework.kuizuo.cn" target="_blank">2023 新年快乐</a> 🎉`
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -68,6 +68,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      /*最顶上的页眉*/
+      announcementBar: {
+        id: 'announcementBar',
+        content: announcementBarContent,
+      },
       navbar: {
         title: '🎥啵贝琴',
         hideOnScroll: true,
