@@ -110,7 +110,7 @@ const config = {
               },
             ],
           },
-          {label: 'Gitee📭', position: 'right',to: 'https://github.com/DxIMT',},
+          {label: 'GitHub📭', position: 'right',to: 'https://github.com/DxIMT',},
         ],
       },
       footer: {//页面底部菜单栏
