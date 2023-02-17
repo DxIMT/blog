@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e26e7abe48ded56a",
+        "id": "3f0f37771d1b3f7e",
         "type": "tabs",
         "children": [
           {
-            "id": "562a34a836a7cb7a",
+            "id": "63d42af9c1d442f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/STM32/OLED.md",
+                "file": "docs/Notes/NetPage/Obsidian安装插件问题.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "be915263a2d7f0b6",
+            "id": "057df9f2740e3b6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/STM32/PWM.md",
+                "file": "docs/Notes/NetPage/GitHub、Diy个人主页.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c855c11e94e5269c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/NetPage/Obsidian安装插件问题.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/STM32/OLED.md",
+                "file": "docs/Notes/NetPage/GitHub、Diy个人主页.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Notes/STM32/OLED.md",
+                "file": "docs/Notes/NetPage/GitHub、Diy个人主页.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Notes/STM32/OLED.md"
+                "file": "docs/Notes/NetPage/GitHub、Diy个人主页.md"
               }
             }
           }
@@ -159,17 +172,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "562a34a836a7cb7a",
+  "active": "057df9f2740e3b6e",
   "lastOpenFiles": [
-    "blog/home.md",
-    "docs/Notes/Home.md",
+    "docs/Notes/NetPage/Obsidian安装插件问题.md",
+    "docs/Notes/NetPage/GitHub、Diy个人主页.md",
+    "docs/Notes/NetPage/Obsidian模板初试.md",
+    "docs/Notes/NetPage/关于网站侧边栏.md",
+    "docs/Notes/NetPage/记录第一次使用Obsidian写文章.md",
+    "docs/Notes/NetPage/文件引用出错.md",
+    "docs/Notes/NetPage/自定义目录以及引用.md",
     "docs/Notes/STM32/OLED.md",
-    "docs/Notes/STM32/PWM.md",
-    "docs/pathExists.md",
-    "docs/Notes/工作经验小记/PCB经验小记.md",
-    "Life/Games/我与和平精英.md",
-    "Life/Games/游戏的最高配置是朋友.md",
-    "Life/Love/Home.md",
-    "templates/生活 - 快速模板.md"
+    "blog/home.md",
+    "docs/Notes/Home.md"
   ]
 }
