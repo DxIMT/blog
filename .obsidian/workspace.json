@@ -25,26 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/NetPage/GitHub、Diy个人主页.md",
+                "file": "Life/Love/Home.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "c855c11e94e5269c",
+            "id": "a35b47352272d3c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/NetPage/Obsidian安装插件问题.md",
+                "file": "Life/Love/我和琴的碎碎念1.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/NetPage/GitHub、Diy个人主页.md",
+                "file": "Life/Love/我和琴的碎碎念1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Notes/NetPage/GitHub、Diy个人主页.md",
+                "file": "Life/Love/我和琴的碎碎念1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Notes/NetPage/GitHub、Diy个人主页.md"
+                "file": "Life/Love/我和琴的碎碎念1.md"
               }
             }
           }
@@ -172,17 +172,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "057df9f2740e3b6e",
+  "active": "a35b47352272d3c5",
   "lastOpenFiles": [
-    "docs/Notes/NetPage/Obsidian安装插件问题.md",
+    "Life/Love/Home.md",
+    "Life/Love/我和琴的碎碎念1.md",
+    "Life/碎碎念/我对外婆的碎碎念2.md",
     "docs/Notes/NetPage/GitHub、Diy个人主页.md",
+    "docs/Notes/NetPage/Obsidian安装插件问题.md",
     "docs/Notes/NetPage/Obsidian模板初试.md",
     "docs/Notes/NetPage/关于网站侧边栏.md",
     "docs/Notes/NetPage/记录第一次使用Obsidian写文章.md",
     "docs/Notes/NetPage/文件引用出错.md",
-    "docs/Notes/NetPage/自定义目录以及引用.md",
-    "docs/Notes/STM32/OLED.md",
-    "blog/home.md",
-    "docs/Notes/Home.md"
+    "docs/Notes/NetPage/自定义目录以及引用.md"
   ]
 }
