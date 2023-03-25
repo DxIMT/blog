@@ -1,5 +1,5 @@
 ---
-title: 毕设心肌梗塞🤯
+title: 毕设心肌梗塞1🤯
 description: 关于毕设OLED调试过程的心脏骤停
 sidebar_position: 4
 author: 啵贝琴
