@@ -13,7 +13,7 @@ title: 所有的日常
 
 # -> <a href="https://littlefairy.top/Life/category/%E7%A2%8E%E7%A2%8E%E5%BF%B5">碎碎念</a>
 
-# -> <a href="https://littlefairy.top/Life/category/games">随笔小记</a>
+# -> <a href="https://littlefairy.top/Life/category/informal-essay">随笔小记</a>
 
 # -> <a href="https://littlefairy.top/Life/category/%E6%81%8B%E7%88%B1%E6%97%A5%E5%B8%B8">恋爱日常</a>
 
