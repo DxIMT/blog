@@ -27,6 +27,7 @@ tags:
 我是直接写了一个OLED_Index.c和一个OLED_Index.h文件来打包我的OLED多级菜单
 
 > OLED_Index.h(**特别重要的地方就是那个结构体**)
+
 ```c
 #ifndef _OLED_INDEX_H
 #define _OLED_INDEX_H
@@ -58,7 +59,9 @@ extern key_table table[30];
 
 #endif
 ```
+
 > OLED_Index.c
+
 ```c
 #include "OLED_Index.h"
 
@@ -246,6 +249,7 @@ key_table table[30]=
 };
 ```
 > main.c
+
 ```c
 #include "main.h"
 u8 key_enter=0,key_up=0,key_down=0,key_back=0;//按键的标志
