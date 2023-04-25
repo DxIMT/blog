@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0c28a2c090fbb7a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "5f8a5e08275095d8",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Games/记录之后的几次面试.md",
+                "file": "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Games/记录之后的几次面试.md",
+                "file": "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Games/记录之后的几次面试.md"
+                "file": "docs/Notes/硬件开发笔记/运放：失调电压Vos.md"
               }
             }
           }
@@ -159,10 +172,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "190573e79df54983",
+  "active": "0c28a2c090fbb7a9",
   "lastOpenFiles": [
-    "Life/Games/记录第一次面试.md",
+    "static/img_硬件设计与开发笔记/运放/反向放大电路的失调电压.png",
+    "static/img_硬件设计与开发笔记/运放/同向放大电路的失调电压.png",
+    "static/img_硬件设计与开发笔记/运放/失调电压的产生.png",
+    "static/img_硬件设计与开发笔记/运放",
+    "static/img_硬件设计与开发笔记/新建文件夹",
+    "static/新建文件夹",
+    "docs/Notes/硬件开发笔记/硬件开发笔记.md",
+    "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
     "Life/Games/记录之后的几次面试.md",
+    "Life/Games/记录第一次面试.md",
     "Life/Games/我与和平精英.md",
     "Life/Games/游戏的最高配置是朋友.md",
     "Life/Games/毕设心肌梗塞瞬间——牛马PB6.md",
