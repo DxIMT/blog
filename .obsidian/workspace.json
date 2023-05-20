@@ -6,14 +6,15 @@
       {
         "id": "bf8803bd60aee8b7",
         "type": "tabs",
+        "dimension": 64.25855513307985,
         "children": [
           {
-            "id": "190573e79df54983",
+            "id": "5ffd37820373b909",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Games/记录之后的几次面试.md",
+                "file": "Life/Games/最近的琐事.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +33,26 @@
             }
           },
           {
-            "id": "5f8a5e08275095d8",
+            "id": "77b1c25b47f0cc3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/Games/毕设学习记录——OELD多级菜单.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "203633d8660f3d68",
+        "type": "tabs",
+        "dimension": 35.741444866920155,
+        "children": [
+          {
+            "id": "17a399f54e91cd7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
+                "file": "Life/Games/最近的琐事.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
+                "file": "Life/Games/最近的琐事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Notes/硬件开发笔记/运放：失调电压Vos.md"
+                "file": "Life/Games/最近的琐事.md"
               }
             }
           }
@@ -172,37 +191,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c28a2c090fbb7a9",
+  "active": "5ffd37820373b909",
   "lastOpenFiles": [
+    "static/life_Page/Games/最近琐事/毕设答辩.png",
+    "static/life_Page/Games/最近琐事/搬家9.jpg",
+    "static/life_Page/Games/最近琐事/搬家8.jpg",
+    "static/life_Page/Games/最近琐事/搬家7.jpg",
+    "static/life_Page/Games/最近琐事/搬家6.jpg",
+    "static/life_Page/Games/最近琐事/搬家5.jpg",
+    "static/life_Page/Games/最近琐事/搬家4.jpg",
+    "static/life_Page/Games/最近琐事/搬家3.jpg",
+    "static/life_Page/Games/最近琐事/搬家2.jpg",
+    "static/life_Page/Games/最近琐事/搬家1.jpg",
+    "static/life_Page/Games/最近琐事",
+    "static/life_Page/Games/新建文件夹",
+    "Life/Games/毕设学习记录——OELD多级菜单.md",
+    "Life/Games/最近的琐事.md",
+    "Life/Games/毕设心肌梗塞瞬间——Type—A输出口.md",
+    "Life/Games/记录之后的几次面试.md",
+    "Life/Games/记录第一次面试.md",
+    "Life/Games/毕设心肌梗塞瞬间——OLED.md",
+    "Life/Games/毕设心肌梗塞瞬间——牛马PB6.md",
+    "Life/Games/游戏的最高配置是朋友.md",
+    "Life/Games/我与和平精英.md",
+    "Life/碎碎念/我对外婆的碎碎念2.md",
+    "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
     "static/img_硬件设计与开发笔记/运放/反向放大电路的失调电压.png",
-    "static/img_硬件设计与开发笔记/运放/同向放大电路的失调电压.png",
-    "static/img_硬件设计与开发笔记/运放/失调电压的产生.png",
     "static/img_硬件设计与开发笔记/运放",
     "static/img_硬件设计与开发笔记/新建文件夹",
     "static/新建文件夹",
     "docs/Notes/硬件开发笔记/硬件开发笔记.md",
-    "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
-    "Life/Games/记录之后的几次面试.md",
-    "Life/Games/记录第一次面试.md",
-    "Life/Games/我与和平精英.md",
-    "Life/Games/游戏的最高配置是朋友.md",
-    "Life/Games/毕设心肌梗塞瞬间——牛马PB6.md",
-    "Life/Games/毕设心肌梗塞瞬间——OLED.md",
-    "Life/Games/毕设心肌梗塞瞬间——Type—A输出口.md",
-    "Life/Games/毕设学习记录——OELD多级菜单.md",
-    "static/life_Page/Games/毕设学习/OELD多级菜单.png",
     "static/life_Page/Games/毕设学习",
-    "static/life_Page/Games/新建文件夹",
-    "static/life_Page/Games/毕设心肌梗塞/万恶PB61.png",
     "2023-03-26.md",
-    "static/life_Page/Games/毕设心肌梗塞/VBUS问题.png",
-    "static/life_Page/Games/毕设心肌梗塞/FPC排线出事(1).png",
-    "static/life_Page/Games/毕设心肌梗塞/PCB.png",
     "docs/Notes/工作经验小记/PCB经验小记.md",
     "docs/Notes/NetPage/Obsidian安装插件问题.md",
     "Life/Love/Home.md",
     "Life/Love/我和琴的碎碎念1.md",
-    "Life/碎碎念/我对外婆的碎碎念2.md",
     "docs/Notes/NetPage/GitHub、Diy个人主页.md",
     "docs/Notes/NetPage/Obsidian模板初试.md",
     "docs/Notes/NetPage/关于网站侧边栏.md",
