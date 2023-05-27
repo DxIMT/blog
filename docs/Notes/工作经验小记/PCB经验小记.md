@@ -1,5 +1,5 @@
 ---
-title: ✏PCB经验小记
+title: -PCB经验小记
 description: 关于PCB的那些坑
 sidebar_position: 1
 keywords:

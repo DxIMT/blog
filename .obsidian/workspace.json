@@ -6,58 +6,26 @@
       {
         "id": "bf8803bd60aee8b7",
         "type": "tabs",
-        "dimension": 64.25855513307985,
         "children": [
           {
-            "id": "5ffd37820373b909",
+            "id": "b4ffc01ce014835f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Games/最近的琐事.md",
+                "file": "docs/Notes/工作经验小记/第一次真实的运放实物搭建.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "0c28a2c090fbb7a9",
+            "id": "5a76a4abc16f8979",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "77b1c25b47f0cc3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/Games/毕设学习记录——OELD多级菜单.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "203633d8660f3d68",
-        "type": "tabs",
-        "dimension": 35.741444866920155,
-        "children": [
-          {
-            "id": "17a399f54e91cd7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/Games/记录第一次面试.md",
+                "file": "docs/Notes/工作经验小记/PCB经验小记.md",
                 "mode": "source",
                 "source": true
               }
@@ -108,6 +76,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "b2c5bd1b23e62ee7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -129,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Games/最近的琐事.md",
+                "file": "docs/Notes/工作经验小记/第一次真实的运放实物搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Games/最近的琐事.md",
+                "file": "docs/Notes/工作经验小记/第一次真实的运放实物搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Games/最近的琐事.md"
+                "file": "docs/Notes/工作经验小记/第一次真实的运放实物搭建.md"
               }
             }
           }
@@ -191,22 +167,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ffd37820373b909",
+  "active": "b4ffc01ce014835f",
   "lastOpenFiles": [
+    "static/img_工作经验小记/实物接线.png",
+    "static/img_工作经验小记/短路分析.png",
+    "static/img_工作经验小记/运放引脚.png",
+    "static/img_工作经验小记/PCB电阻的飞线.png",
+    "static/img_工作经验小记/Multisim仿真反相放大电路.png",
+    "docs/Notes/工作经验小记/Multisim仿真反相放大电路.png",
+    "static/img_工作经验小记/搭建反相器1.png",
+    "docs/Notes/工作经验小记/第一次真实的运放实物搭建.md",
+    "docs/Notes/工作经验小记/PCB经验小记.md",
+    "Life/Games/最近的琐事.md",
     "static/life_Page/Games/最近琐事/毕设答辩.png",
     "static/life_Page/Games/最近琐事/搬家9.jpg",
     "static/life_Page/Games/最近琐事/搬家8.jpg",
     "static/life_Page/Games/最近琐事/搬家7.jpg",
-    "static/life_Page/Games/最近琐事/搬家6.jpg",
-    "static/life_Page/Games/最近琐事/搬家5.jpg",
-    "static/life_Page/Games/最近琐事/搬家4.jpg",
-    "static/life_Page/Games/最近琐事/搬家3.jpg",
-    "static/life_Page/Games/最近琐事/搬家2.jpg",
-    "static/life_Page/Games/最近琐事/搬家1.jpg",
     "static/life_Page/Games/最近琐事",
     "static/life_Page/Games/新建文件夹",
     "Life/Games/毕设学习记录——OELD多级菜单.md",
-    "Life/Games/最近的琐事.md",
     "Life/Games/毕设心肌梗塞瞬间——Type—A输出口.md",
     "Life/Games/记录之后的几次面试.md",
     "Life/Games/记录第一次面试.md",
@@ -216,14 +195,12 @@
     "Life/Games/我与和平精英.md",
     "Life/碎碎念/我对外婆的碎碎念2.md",
     "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
-    "static/img_硬件设计与开发笔记/运放/反向放大电路的失调电压.png",
     "static/img_硬件设计与开发笔记/运放",
     "static/img_硬件设计与开发笔记/新建文件夹",
     "static/新建文件夹",
     "docs/Notes/硬件开发笔记/硬件开发笔记.md",
     "static/life_Page/Games/毕设学习",
     "2023-03-26.md",
-    "docs/Notes/工作经验小记/PCB经验小记.md",
     "docs/Notes/NetPage/Obsidian安装插件问题.md",
     "Life/Love/Home.md",
     "Life/Love/我和琴的碎碎念1.md",
