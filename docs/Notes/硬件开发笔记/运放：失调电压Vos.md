@@ -3,7 +3,7 @@ title: 运放之失调电压：Vos
 description: 关于运放失调电压Vos的学习
 sidebar_position: 2
 author: 啵贝琴
-date: 2023-4-25
+date: 2023-5-25
 keywords:
 - 运放
 tags: 

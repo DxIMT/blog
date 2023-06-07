@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/工作经验小记/第一次真实的运放实物搭建.md",
+                "file": "docs/Notes/硬件开发笔记/USB.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Notes/工作经验小记/PCB经验小记.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ffcc893533f93144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/硬件开发笔记/硬件开发笔记.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/工作经验小记/第一次真实的运放实物搭建.md",
+                "file": "docs/Notes/硬件开发笔记/USB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Notes/工作经验小记/第一次真实的运放实物搭建.md",
+                "file": "docs/Notes/硬件开发笔记/USB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Notes/工作经验小记/第一次真实的运放实物搭建.md"
+                "file": "docs/Notes/硬件开发笔记/USB.md"
               }
             }
           }
@@ -169,6 +181,11 @@
   },
   "active": "b4ffc01ce014835f",
   "lastOpenFiles": [
+    "docs/Notes/硬件开发笔记/硬件开发笔记.md",
+    "docs/Notes/工作经验小记/PCB经验小记.md",
+    "docs/Notes/硬件开发笔记/USB.md",
+    "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
+    "docs/Notes/工作经验小记/第一次真实的运放实物搭建.md",
     "static/img_工作经验小记/实物接线.png",
     "static/img_工作经验小记/短路分析.png",
     "static/img_工作经验小记/运放引脚.png",
@@ -176,13 +193,10 @@
     "static/img_工作经验小记/Multisim仿真反相放大电路.png",
     "docs/Notes/工作经验小记/Multisim仿真反相放大电路.png",
     "static/img_工作经验小记/搭建反相器1.png",
-    "docs/Notes/工作经验小记/第一次真实的运放实物搭建.md",
-    "docs/Notes/工作经验小记/PCB经验小记.md",
     "Life/Games/最近的琐事.md",
     "static/life_Page/Games/最近琐事/毕设答辩.png",
     "static/life_Page/Games/最近琐事/搬家9.jpg",
     "static/life_Page/Games/最近琐事/搬家8.jpg",
-    "static/life_Page/Games/最近琐事/搬家7.jpg",
     "static/life_Page/Games/最近琐事",
     "static/life_Page/Games/新建文件夹",
     "Life/Games/毕设学习记录——OELD多级菜单.md",
@@ -194,11 +208,9 @@
     "Life/Games/游戏的最高配置是朋友.md",
     "Life/Games/我与和平精英.md",
     "Life/碎碎念/我对外婆的碎碎念2.md",
-    "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
     "static/img_硬件设计与开发笔记/运放",
     "static/img_硬件设计与开发笔记/新建文件夹",
     "static/新建文件夹",
-    "docs/Notes/硬件开发笔记/硬件开发笔记.md",
     "static/life_Page/Games/毕设学习",
     "2023-03-26.md",
     "docs/Notes/NetPage/Obsidian安装插件问题.md",
