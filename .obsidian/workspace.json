@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/硬件开发笔记/USB.md",
+                "file": "docs/Notes/硬件开发笔记/射极跟随器案例分析.md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/硬件开发笔记/USB.md",
+                "file": "docs/Notes/硬件开发笔记/射极跟随器案例分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Notes/硬件开发笔记/USB.md",
+                "file": "docs/Notes/硬件开发笔记/射极跟随器案例分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Notes/硬件开发笔记/USB.md"
+                "file": "docs/Notes/硬件开发笔记/射极跟随器案例分析.md"
               }
             }
           }
@@ -181,9 +181,14 @@
   },
   "active": "b4ffc01ce014835f",
   "lastOpenFiles": [
+    "static/img_硬件设计与开发笔记/射极跟随器案例/2.png",
+    "static/img_硬件设计与开发笔记/射极跟随器案例/1.png",
+    "static/img_硬件设计与开发笔记/射极跟随器案例",
+    "static/img_硬件设计与开发笔记/新建文件夹",
+    "docs/Notes/硬件开发笔记/USB.md",
+    "docs/Notes/硬件开发笔记/射极跟随器案例分析.md",
     "docs/Notes/硬件开发笔记/硬件开发笔记.md",
     "docs/Notes/工作经验小记/PCB经验小记.md",
-    "docs/Notes/硬件开发笔记/USB.md",
     "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
     "docs/Notes/工作经验小记/第一次真实的运放实物搭建.md",
     "static/img_工作经验小记/实物接线.png",
@@ -196,7 +201,6 @@
     "Life/Games/最近的琐事.md",
     "static/life_Page/Games/最近琐事/毕设答辩.png",
     "static/life_Page/Games/最近琐事/搬家9.jpg",
-    "static/life_Page/Games/最近琐事/搬家8.jpg",
     "static/life_Page/Games/最近琐事",
     "static/life_Page/Games/新建文件夹",
     "Life/Games/毕设学习记录——OELD多级菜单.md",
@@ -209,7 +213,6 @@
     "Life/Games/我与和平精英.md",
     "Life/碎碎念/我对外婆的碎碎念2.md",
     "static/img_硬件设计与开发笔记/运放",
-    "static/img_硬件设计与开发笔记/新建文件夹",
     "static/新建文件夹",
     "static/life_Page/Games/毕设学习",
     "2023-03-26.md",
