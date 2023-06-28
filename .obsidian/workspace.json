@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/硬件开发笔记/射极跟随器案例分析.md",
+                "file": "docs/Notes/硬件开发笔记/关于LM3488 BOOST电路调试问题.md",
                 "mode": "source",
                 "source": true
               }
@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/硬件开发笔记/硬件开发笔记.md",
+                "file": "docs/Notes/硬件开发笔记/射极跟随器案例分析.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d66890b351f85c7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/硬件开发笔记/《电子工程师必备》_Note_1.md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/硬件开发笔记/射极跟随器案例分析.md",
+                "file": "docs/Notes/硬件开发笔记/关于LM3488 BOOST电路调试问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Notes/硬件开发笔记/射极跟随器案例分析.md",
+                "file": "docs/Notes/硬件开发笔记/关于LM3488 BOOST电路调试问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Notes/硬件开发笔记/射极跟随器案例分析.md"
+                "file": "docs/Notes/硬件开发笔记/关于LM3488 BOOST电路调试问题.md"
               }
             }
           }
@@ -181,15 +193,21 @@
   },
   "active": "b4ffc01ce014835f",
   "lastOpenFiles": [
+    "static/img_硬件设计与开发笔记/LM3488/NMOS.png",
+    "static/img_硬件设计与开发笔记/LM3488/芯片限流电阻内部结构.png",
+    "static/img_硬件设计与开发笔记/LM3488/限流电阻.png",
+    "static/img_硬件设计与开发笔记/LM3488",
+    "static/img_硬件设计与开发笔记/新建文件夹",
+    "docs/Notes/硬件开发笔记/《电子工程师必备》_Note_1.md",
+    "docs/Notes/硬件开发笔记/关于LM3488 BOOST电路调试问题.md",
+    "docs/Notes/硬件开发笔记/射极跟随器案例分析.md",
+    "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
+    "docs/Notes/硬件开发笔记/USB.md",
+    "docs/Notes/工作经验小记/PCB经验小记.md",
+    "docs/Notes/硬件开发笔记/硬件开发笔记.md",
     "static/img_硬件设计与开发笔记/射极跟随器案例/2.png",
     "static/img_硬件设计与开发笔记/射极跟随器案例/1.png",
     "static/img_硬件设计与开发笔记/射极跟随器案例",
-    "static/img_硬件设计与开发笔记/新建文件夹",
-    "docs/Notes/硬件开发笔记/USB.md",
-    "docs/Notes/硬件开发笔记/射极跟随器案例分析.md",
-    "docs/Notes/硬件开发笔记/硬件开发笔记.md",
-    "docs/Notes/工作经验小记/PCB经验小记.md",
-    "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
     "docs/Notes/工作经验小记/第一次真实的运放实物搭建.md",
     "static/img_工作经验小记/实物接线.png",
     "static/img_工作经验小记/短路分析.png",
@@ -197,10 +215,7 @@
     "static/img_工作经验小记/PCB电阻的飞线.png",
     "static/img_工作经验小记/Multisim仿真反相放大电路.png",
     "docs/Notes/工作经验小记/Multisim仿真反相放大电路.png",
-    "static/img_工作经验小记/搭建反相器1.png",
     "Life/Games/最近的琐事.md",
-    "static/life_Page/Games/最近琐事/毕设答辩.png",
-    "static/life_Page/Games/最近琐事/搬家9.jpg",
     "static/life_Page/Games/最近琐事",
     "static/life_Page/Games/新建文件夹",
     "Life/Games/毕设学习记录——OELD多级菜单.md",
@@ -221,7 +236,6 @@
     "Life/Love/我和琴的碎碎念1.md",
     "docs/Notes/NetPage/GitHub、Diy个人主页.md",
     "docs/Notes/NetPage/Obsidian模板初试.md",
-    "docs/Notes/NetPage/关于网站侧边栏.md",
-    "docs/Notes/NetPage/记录第一次使用Obsidian写文章.md"
+    "docs/Notes/NetPage/关于网站侧边栏.md"
   ]
 }
