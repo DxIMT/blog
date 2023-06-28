@@ -3,7 +3,7 @@ title: 基于LM3488 BOOST电路调试
 description: BOOST电路调试
 sidebar_position: 6
 author: 啵贝琴
-date: 2023-6-25
+date: 2023-6-28
 keywords:
 - BOOST电路
 tags: 
