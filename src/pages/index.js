@@ -70,10 +70,10 @@ function HomepageHeader() {
     <div className={styles.myHeroContainer}>
       <div className={styles.leftContainer}>
         <h1 className={styles.leftContainer_h1}>
-        Hello！ <br />这里是🎥啵贝琴的小站💭
+        Hello！ <br />这里是🎥啵贝鑫的小站💭
         </h1>
         <p className={styles.leftContainer_p}>
-        ➡ 这是属于啵贝琴的专属网页；记录自己学习的历程以及感悟。
+        ➡ 这是属于啵贝鑫的专属网页；记录自己学习的历程以及感悟。
         <br />
         <br />
         ◻️ “困住你的到底是什么?”

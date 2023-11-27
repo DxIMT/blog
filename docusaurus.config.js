@@ -8,8 +8,8 @@ const announcementBarContent = `<a href="https://firework.kuizuo.cn" target="_bl
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '🎥啵贝琴的小站',
-  tagline: '这是属于啵贝琴的专属网页；记录自己学习的历程以及感悟',
+  title: '🎥啵贝鑫的小站',
+  tagline: '这是属于啵贝鑫的专属网页；记录自己学习的历程以及感悟',
   url: 'https://littlefairy.top',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -74,10 +74,10 @@ const config = {
         content: announcementBarContent,
       },
       navbar: {
-        title: '🎥啵贝琴',
+        title: '🎥啵贝鑫',
         hideOnScroll: true,
         logo: {
-          alt: '🎥啵贝琴',
+          alt: '🎥啵贝鑫',
           src: 'img/src.webp',
         },
         items: [//顶部菜单栏

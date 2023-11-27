@@ -6,12 +6,12 @@ hide_table_of_contents: true
 ---
 
 
-# 👋 关于我：啵贝琴
+# 👋 关于我：啵贝鑫
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Comic+Sans+MS&center=true&vCenter=true&width=500&height=60&lines=It's+an+honor+for+you+to+get+to+know+me)
 
 ## 简介
-🧑 大学牲，中国大学生
+🧑 大学牲，中国大学生，目前在编。
 
 🔆 随时保持学习，天天向上
 
