@@ -4,7 +4,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const announcementBarContent = `<a href="https://firework.kuizuo.cn" target="_blank">2023 新年快乐</a> 🎉`
+const announcementBarContent = `<a href="https://firework.kuizuo.cn" target="_blank">2024 新年快乐</a> 🎉`
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
