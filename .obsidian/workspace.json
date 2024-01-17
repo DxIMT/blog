@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "0a0a383d2175098b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
             "id": "5a76a4abc16f8979",
             "type": "leaf",
             "state": {
@@ -55,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +202,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b4ffc01ce014835f",
+  "active": "0a0a383d2175098b",
   "lastOpenFiles": [
     "Life/碎碎念/我对外婆的碎碎念2.md",
     "Life/碎碎念/我对外婆的碎碎念3.md",
