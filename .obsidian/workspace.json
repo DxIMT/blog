@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "f772115a02aab04b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf8803bd60aee8b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4ffc01ce014835f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/碎碎念/我对外婆的碎碎念3.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0a0a383d2175098b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
+            "id": "5a76a4abc16f8979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/工作经验小记/PCB经验小记.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ffcc893533f93144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/硬件开发笔记/射极跟随器案例分析.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d66890b351f85c7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/硬件开发笔记/《电子工程师必备》_Note_1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b27c5bd1353bddd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd5944e8c42ab48f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e2492d8647135e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec28fb9c98ff2fdf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6745bbb9f20ea544",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2c5bd1b23e62ee7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "61ae6f30a0b7063b",
+    "type": "split",
+    "children": [
+      {
+        "id": "74159890da6d673b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff032118d700cdc9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Life/碎碎念/我对外婆的碎碎念3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "14abf7c33edbbf43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Life/碎碎念/我对外婆的碎碎念3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e826f08fd95f87e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3091acb4a0d927a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Life/碎碎念/我对外婆的碎碎念3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0a0a383d2175098b",
+  "lastOpenFiles": [
+    "Life/碎碎念/我对外婆的碎碎念2.md",
+    "Life/碎碎念/我对外婆的碎碎念3.md",
+    "Life/Love/我和琴的碎碎念2.md",
+    "static/life_Page/LOVE/self_Home/9.jpg",
+    "static/life_Page/LOVE/self_Home/8.jpg",
+    "static/life_Page/LOVE/self_Home/7.jpg",
+    "static/life_Page/LOVE/self_Home/6.jpg",
+    "static/life_Page/LOVE/self_Home/5.jpg",
+    "static/life_Page/LOVE/self_Home/4.jpg",
+    "static/life_Page/LOVE/self_Home/3.jpg",
+    "static/life_Page/LOVE/self_Home/2.jpg",
+    "static/life_Page/LOVE/self_Home/1.jpg",
+    "static/life_Page/LOVE/self_Home",
+    "static/life_Page/LOVE/专属小家",
+    "static/life_Page/LOVE/新建文件夹",
+    "Life/Love/我和琴的碎碎念1.md",
+    "docs/Notes/工作经验小记/“LCR”电阻采集电路.md",
+    "docs/Notes/工作经验小记/“LCR”电流采集电路分析及调试.md",
+    "docs/Notes/工作经验小记/未命名",
+    "docs/Notes/工作经验小记/PCB经验小记.md",
+    "docs/Notes/工作经验小记/第一次真实的运放实物搭建.md",
+    "docs/Notes/工作经验小记/关于LM3488 BOOST电路调试问题.md",
+    "static/img_硬件设计与开发笔记/LM3488/NMOS.png",
+    "static/img_硬件设计与开发笔记/LM3488",
+    "static/img_硬件设计与开发笔记/新建文件夹",
+    "docs/Notes/硬件开发笔记/《电子工程师必备》_Note_1.md",
+    "docs/Notes/硬件开发笔记/关于LM3488 BOOST电路调试问题.md",
+    "docs/Notes/硬件开发笔记/射极跟随器案例分析.md",
+    "docs/Notes/硬件开发笔记/运放：失调电压Vos.md",
+    "docs/Notes/硬件开发笔记/USB.md",
+    "docs/Notes/硬件开发笔记/硬件开发笔记.md",
+    "static/img_硬件设计与开发笔记/射极跟随器案例",
+    "Life/Games/最近的琐事.md",
+    "static/life_Page/Games/最近琐事",
+    "static/life_Page/Games/新建文件夹",
+    "Life/Games/毕设学习记录——OELD多级菜单.md",
+    "Life/Games/毕设心肌梗塞瞬间——Type—A输出口.md",
+    "Life/Games/记录之后的几次面试.md",
+    "Life/Games/记录第一次面试.md",
+    "Life/Games/毕设心肌梗塞瞬间——OLED.md",
+    "Life/Games/毕设心肌梗塞瞬间——牛马PB6.md",
+    "Life/Games/游戏的最高配置是朋友.md",
+    "Life/Games/我与和平精英.md",
+    "static/img_硬件设计与开发笔记/运放",
+    "2023-03-26.md",
+    "docs/Notes/NetPage/Obsidian安装插件问题.md"
+  ]
+}
